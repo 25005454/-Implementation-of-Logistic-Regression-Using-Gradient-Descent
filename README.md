@@ -8,11 +8,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Data preprocessing: Cleanse data,handle missing values,encode categorical variables.
-2. Model Training: Fit logistic regression model on preprocessed data.
-3.Model Evaluation: Assess model performance using metrics like accuracyprecisioon,recall. 
-4.Prediction: Predict placement status for new student data using trained model.
-
+1. Start the program .
+2. Data preprocessing: Cleanse data,handle missing values,encode categorical variables .
+3. Model Training: Fit logistic regression model on preprocessed data .
+4. Model Evaluation: Assess model performance using metrics like accuracyprecisioon,recall .
+5. Prediction: Predict placement status for new student data using trained model .
+6. End of program .
+   
 ## Program:
 ```
 /*
